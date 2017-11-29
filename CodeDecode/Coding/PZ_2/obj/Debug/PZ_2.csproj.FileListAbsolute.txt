@@ -1,0 +1,6 @@
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\bin\Debug\PZ_2.exe.config
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\obj\Debug\PZ_2.csprojResolveAssemblyReference.cache
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\bin\Debug\PZ_2.exe
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\bin\Debug\PZ_2.pdb
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\obj\Debug\PZ_2.exe
+D:\ВСЕ\УНИВЕР\С#\PZ_2\PZ_2\obj\Debug\PZ_2.pdb

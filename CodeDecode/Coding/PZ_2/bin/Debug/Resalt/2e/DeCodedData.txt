@@ -1,0 +1,5 @@
+At modern devie, engineers appliation the modular assembly priniple. 
+This priniple allows produe the modules at different manufatures.
+ However, we haven`t the neessary program for design devie whih have many different modules.
+ The design program will get this possible, and the relational database,
+ whih we appliation at program, provides an opportunity to hange fields of database (insert or delete).  
